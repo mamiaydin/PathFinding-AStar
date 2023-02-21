@@ -1,1 +1,1 @@
-# PathFinding system with AStar* in Unity
+# PathFinding system with AStar* algorithm in Unity
